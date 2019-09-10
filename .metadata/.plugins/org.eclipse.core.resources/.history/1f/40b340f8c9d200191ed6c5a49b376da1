@@ -1,0 +1,5 @@
+package com.xiaolan.mybatis.jdbcTest;
+
+public class jdbcTest {
+
+}
